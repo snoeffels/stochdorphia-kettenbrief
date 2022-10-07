@@ -1,14 +1,14 @@
-# stochdorphia-kettenbrief für bigbrain bummelstudenten
+# stochdorphia-kettenbrief
 
 ### Folgendes muss installiert sein
-- Python 3.10 + pip (pip muss meistens beim installieren extra ausgewählt werden)
+- Python 3.10 + pip (pip muss meistens beim Installieren extra ausgewählt werden)
 - pipenv ("pip install pipenv" auf der shell eingeben)
 
 ### Ausführen
-Lade den Inhalt dieses Repositories runter und entpacke ihn ggf.
+Lade den Inhalt dieses repos runter und entpacke ihn ggf.
 
 Es werden die Dateien example.xlsx und template.docx erwartet.
-Die Dateinamen können in der main.py konfiguriert werden wie auch die Zeile bei der begonnen werden soll.
+Die Dateinamen können in der main.py konfiguriert werden, sowie auch die Zeile bei der begonnen werden soll.
 
 Die Spalten der Excel werden der Reihe nach, aufsteigend mit den Suchzeichen ( z.B. wird "%2%" durch den Wert in der 2. Spalte) ersetzt.
 Eine Ausnahme bildet das Suchzeichen "%anrede%". Dieser Wert wird anhand der ersten Spalte (Herr/Frau) entschieden.
