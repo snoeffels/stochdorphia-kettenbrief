@@ -20,7 +20,7 @@ output = "serienbrief.docx"
 temporary = "temporary.docx"
 
 # Anreden mänlich weiblich
-anrede_regex = r"%8%"
+anrede_regex = r"%anrede%"
 anrede_m = "Sehr geehrter Bundesbruder"
 anrede_w = "Sehr geehrte Bundesschwester"
 
