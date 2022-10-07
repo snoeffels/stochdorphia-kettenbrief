@@ -2,7 +2,7 @@
 
 ### Folgendes muss installiert sein
 - Python 3.10 + pip (pip muss meistens beim Installieren extra ausgewählt werden)
-- pipenv ("pip install pipenv" auf der shell eingeben)
+- pipenv ("pip install pipenv" auf der Shell eingeben)
 
 ### Ausführen
 Lade den Inhalt dieses repos runter und entpacke ihn ggf.
