@@ -1,4 +1,4 @@
-# stochdorphia-kettenbrief für bibrain bummelstudenten
+# stochdorphia-kettenbrief für bigbrain bummelstudenten
 
 ### Folgendes muss installiert sein
 - Python 3.10 + pip (pip muss meistens beim Installieren extra ausgewählt werden)
