@@ -14,7 +14,7 @@ Die Spalten der Excel werden der Reihe nach, aufsteigend mit den Suchzeichen ( z
 Eine Ausnahme bildet das Suchzeichen "%anrede%". Dieser Wert wird anhand der ersten Spalte (Herr/Frau) entschieden.
 Bei der ersten Reihe ohne einen Wert in der ersten Spalte wird abgebrochen. 
 
-Führe folgende Befehle in der shell aus (bei 1. muss der pfad entsprechend ersetzt werden):
+Führe folgende Befehle in der shell (cmd/powershell/bash) aus (bei 1. muss der pfad entsprechend ersetzt werden):
 1. cd /pfad/zum/ordner
 2. pipenv install
 3. python main.py
